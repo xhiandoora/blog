@@ -1,0 +1,25 @@
+.custom-padding {
+    padding-right: 50px;
+    padding-left: 50px;
+    
+    /* padding-top: 80px; */
+  }
+.me h1{
+    margin-top: 180px;
+    margin-left: -100px;
+    font-size: 50px;
+    font-weight: 900;
+}
+.me p{
+    margin-top: 10px;
+    margin-left: -100px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.img-fluid {
+    height: 350px;
+    width: 400px;
+    margin-top: 80px;
+    border-radius: 15px;
+}
